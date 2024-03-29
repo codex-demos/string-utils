@@ -1,0 +1,12 @@
+{
+  "name": "string-utils123123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lewis",
+  "license": "ISC"
+}
